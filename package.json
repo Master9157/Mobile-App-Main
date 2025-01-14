@@ -9,6 +9,7 @@
     "web": "expo start --web",
     "prepare": "husky"
   },
+  
   "dependencies": {
     "@expo-google-fonts/urbanist": "^0.2.3",
     "@expo/metro-runtime": "~4.0.0",
